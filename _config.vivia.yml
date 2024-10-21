@@ -28,7 +28,7 @@ subtitle: a college student studying cs
 links:
   - name: Bluesky
     icon: fa-brands fa-bluesky      # Find icon codes at https://fontawesome.com/search
-    url: https://twitter.com
+    url: https://bsky.app/profile/nnyjan02426.bsky.social
   - name: GitHub
     icon: fa-brands fa-github
     url: https://github.com/nnyjan02426
@@ -56,13 +56,14 @@ categories:
 # Third-party comment system
 comment:
   valine:
-    enable: false         # Enable Valine comment system
-    appId: 
-    appKey: 
-    placeholder: Just go go
+    enable: true          # Enable Valine comment system
+    appId: dPxsABf1n5paggSR55jkPt6i-MdYXbMMI
+    appKey: DKXHLgI4fMj3f1vJKnvFxOu0
+    placeholder: Feel free to say anything!
     pageSize: 10
     highlight: true
     serverURLs: 
+    lang: en
     # Other supported parameters can be added here if needed
     # Visit https://valine.js.org/configuration.html for more details
   twikoo:
